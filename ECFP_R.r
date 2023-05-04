@@ -1,4 +1,5 @@
 #Practice#
+#Extened Connectivity Finger Print#
 
 > install.packages("rcdk")
 > install.packages("BiocManager")
