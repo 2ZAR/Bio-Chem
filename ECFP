@@ -2,7 +2,7 @@
 
 > install.packages("rcdk")
 > install.packages("BiocManager")
-> BiocManager::install("Rcpi)
+> BiocManager::install("Rcpi")
 > library(rcdk)
 > Library(Rcpi)
 > Aspirin = load.molecules('https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/CID/2244/record/SDF/?record_type=3d&response_type=display') 
