@@ -31,7 +31,7 @@
 
 > names(grav)
 
->head(grav$gmap)
+> head(grav$gmap)
 
 > gravmap <- insert_psudomarkers(map=grav$gmap, step=1)
 > head(gravmap, n=2)
